@@ -8,10 +8,6 @@ This project features the design and development of a two-link robotic arm aimed
 - [System Components](#system-components)
 - [Software Architecture](#software-architecture)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Future Improvements](#future-improvements)
-- [Contributors](#contributors)
-- [Acknowledgments](#acknowledgments)
 - [Video Demo](#video-demo)
 
 ## Project Overview
@@ -46,3 +42,8 @@ The **Firefighter Robotic Arm Project** leverages a two-link arm mechanism, equi
    ```bash
    git clone https://github.com/ftmehoseini/FireBot-2RManipulator
    cd FireBot-2RManipulator
+
+## Video Demo
+Watch the robot in action:
+[![Watch the video](media/firebot_demo_thumbnail.png)](media/firebot_demo.mp4)
+

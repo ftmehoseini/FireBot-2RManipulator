@@ -1,6 +1,6 @@
 # FireBot-2RManipulator
 
-FireBot 2R Manipulator is a precision-engineered, two-link robotic arm developed for reliable flame detection and extinguishing within a controlled workspace. Designed for automated fire safety, FireBot integrates advanced kinematics, optimized link lengths, and sensor-based control to deliver accurate, responsive firefighting capabilities in real-world environments.
+FireBot 2R Manipulator is a two-link robotic arm developed for reliable flame detection and extinguishing within a controlled workspace. Designed for automated fire safety, FireBot integrates advanced kinematics, optimized link lengths, and sensor-based control to deliver accurate, responsive firefighting capabilities in real-world environments.
 
 ## Table of Contents
 - [Project Overview](#project-overview)

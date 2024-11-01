@@ -45,4 +45,4 @@ The **Firefighter Robotic Arm Project** leverages a two-link arm mechanism, equi
 
 ## Video Demo
 Watch the robot in action:
-[![Watch the video](media/firebot_demo_thumbnail.png)](media/firebot_demo.mp4)
+[![Watch the video](media/firebot.png)](media/firebot_demo.mp4)

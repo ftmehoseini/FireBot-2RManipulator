@@ -14,6 +14,7 @@ This project features the design and development of a two-link robotic arm aimed
 The **Firefighter Robotic Arm Project** leverages a two-link arm mechanism, equipped with servo motors and a flame sensor, to perform precise movements required to detect and extinguish flames. The robot utilizes an Arduino-based control system along with a Graphical User Interface (GUI) for real-time monitoring and control. The arm's movements are optimized for efficiency and responsiveness, capable of adapting to changing flame locations.
 
 ![Alt text](firebot.jpg)
+<img src="images/demo.png" alt="Demo Image" width="30">
 
 ## Features
 - **Dual-Link Arm**: Precisely controlled links enable reach across the workspace.

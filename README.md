@@ -1,6 +1,6 @@
 # FireBot-2RManipulator
 
-This project features the design and development of a two-link robotic arm aimed at extinguishing flames. This mechatronic system uses inverse kinematics, a sensor array, and motor controllers to detect and respond to environmental changes, effectively locating and extinguishing flames within a designated workspace.
+FireBot 2R Manipulator is a precision-engineered, two-link robotic arm developed for reliable flame detection and extinguishing within a controlled workspace. Designed for automated fire safety, FireBot integrates advanced kinematics, optimized link lengths, and sensor-based control to deliver accurate, responsive firefighting capabilities in real-world environments.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
